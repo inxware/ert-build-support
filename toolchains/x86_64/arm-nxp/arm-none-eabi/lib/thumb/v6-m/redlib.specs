@@ -1,5 +1,0 @@
-%rename cpp default_cpp
-
-*cpp:
--isystem =/../redlib/include -isystem =/../features/include -nostdinc %(default_cpp)
-
